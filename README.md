@@ -1,1 +1,1 @@
-![poster](d3g_poster.pdf)
+![poster](d3g_poster.jpg)
